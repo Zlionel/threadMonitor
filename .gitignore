@@ -1,19 +1,7 @@
-
+# Xcode
 .DS_Store
-#Reveal.framework/
-
-.svn
+# *.xcworkspace
 *.xcuserstate
 project.xcworkspace/
 xcuserdata
 xcshareddata/
-
-#reader/
-.idea
-build.sh
-
-#fastlane
-fastlane/
-
-#CocoaPods
-#Pods/
